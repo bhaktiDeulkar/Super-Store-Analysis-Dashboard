@@ -2,10 +2,6 @@
 
 ## 📁 Project Overview
 
-# 📊 Superstore Sales Analysis – Power BI Dashboard
-
-## 📁 Project Overview
-
 This project is part of a Data Analyst Internship Task 2: **Data Visualization and Storytelling**. It uses the **Superstore dataset** to explore and communicate business insights via an interactive Power BI dashboard.
 
 ---
